@@ -1,0 +1,61 @@
+{
+    "name": "TemplateLogin",
+    "settings": {
+        "cmd": {
+            "license": "commercial",
+            "cmdVersion": "7.5.1.20",
+            "frameworkVersion": "7.3.0.55"
+        },
+        "urlPrefixTemplate": "http://localhost:{port}/{path}",
+        "urlPrefix": "http://localhost:53265/",
+        "canvasControls": {
+            "viewportSize": {
+                "name": "Auto Expand",
+                "builtIn": true,
+                "height": null,
+                "width": null
+            }
+        },
+        "exportPath": "",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "CRLF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true
+    },
+    "xdsVersion": "4.2.9",
+    "xdsBuild": 443,
+    "schemaVersion": 1,
+    "upgradeVersion": 310000000001,
+    "framework": "ext73",
+    "viewOrderMap": {
+        "view": [
+            "9a6f22d8-edb0-4daa-b24c-763b2b1ea064",
+            "c34bc889-21a7-406f-b492-51931c54418b",
+            "92cad8c6-5a20-4d56-8f13-0346a36ace20",
+            "61d5e033-8981-4a73-bcf6-fb9862691f17",
+            "546d6eaa-3615-4fb5-a39c-d52a621c7175",
+            "397f90fe-599c-4939-b49e-e46cdb563701",
+            "805c94cf-27e8-454b-b4bf-602a8f69067c",
+            "df99ddc4-fb26-4458-8480-62f459982249",
+            "7841d553-ee5d-4249-9efd-45c031763bbc"
+        ],
+        "store": [
+            "bc241795-4a51-43e5-990f-266de11e6121"
+        ],
+        "controller": [],
+        "model": [
+            "d02e0b87-0005-4bd2-838c-42b24bc41b1e"
+        ],
+        "resource": [
+            "8243f681-90b3-4e64-9a2a-d57533a08f3e",
+            "5eee5e39-9be7-4247-ba9d-f75320473eab",
+            "f9689aa3-92b0-47ea-b2e4-6275ec6c627c"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}
